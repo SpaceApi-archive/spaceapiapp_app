@@ -1,0 +1,13 @@
+
+.spaceapi-box {
+    padding: 0px !important;
+}
+
+.spaceapi-box img {
+    -webkit-border-top-right-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    -moz-border-radius-topright: 3px;
+    -moz-border-radius-bottomright: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

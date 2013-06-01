@@ -1,0 +1,87 @@
+[
+    {
+        "Title": "Hackerspace Globe",
+        "Description": "On a 3D globe the sticks represent hackerspace locations while the color shows if it's open.",
+        "Website": "http://joewalnes.github.io/hackerspace-globe",
+        "Github": "http://github.com/joewalnes/hackerspace-globe",
+        "Gitorious": "",
+        "Techniques": "<a href=\"http://code.google.com/p/webgl-globe/\" target=\"_blank\">The WebGL Globe</a>",
+        "Author": "Joe Walnes",
+        "Twitter": "@joewalnes",
+        "Authorsite": "http://joewalnes.com",
+        "Organization": "",
+        "Organizationsite": "",
+        "Screenshot": "hackerspace-globe.png"
+    },
+    {        
+        "Title": "Hackerspace Wall",
+        "Description": "Be up-to-date with the hackerspace wall. Check the tweet per hour meter, monitor the tweets and observe the space states - all in one page ...",
+        "Website": "http://hackerspaces.me",
+        "Github": "http://github.com/trevorpower/hackerspaces-status-wall",
+        "Gitorious": "",
+        "Techniques": "Node.js, Express, CoffeeScript, Jade, Less, MongoDB",
+        "Twitter": "@trevormpower",
+        "Author": "Trevor Power",
+        "Authorsite": "http://trevorpower.com/",
+        "Organization": "miLKlabs",
+        "Organizationsite": "http://milklabs.ie",
+        "Screenshot": "hackerspace-wall.png"
+    },
+    {
+        "Title": "Hacker's OpenSpace",
+        "Description": "Not only on websites but also natively in firefox with the <em>Hacker's OpenSpace</em> add-on will the space state be shown as a red or green dot. This add-on is compatible with firefox 5 to 16.",
+        "Website": "https://addons.mozilla.org/en-US/firefox/addon/hackers-openspace/",
+        "Github": "https://github.com/slopjong/openspace",
+        "Gitorious": "",
+        "Techniques": "JavaScript, XUL",
+        "Twitter": "@slopjong",
+        "Author": "Romain Schmitz",
+        "Authorsite": "http://slopjong.de",
+        "Organization": "syn2cat",
+        "Organizationsite": "http://syn2cat.lu",
+        "Screenshot": "firefox-addon2.png"
+    },
+    {
+        "Title": "My Hackerspace",
+        "Description": "Check the space state everywhere with the <em>My Hackerspace</em> android app. Select your space and start monitor it.",
+        "Website": "https://play.google.com/store/apps/details?id=ch.fixme.status",
+        "Github": "https://github.com/fixme-lausanne/MyHackerspace",
+        "Gitorious": "",
+        "Techniques": "",
+        "Twitter": "@jbaubort",
+        "Author": "Aubort Jean-Baptiste",
+        "Authorsite": "",
+        "Organization": "fixme",
+        "Organizationsite": "http://fixme.ch",
+        "Screenshot": "my-hackerspace.png"
+    },
+    {
+        "Title": "OpenSpaceLint",
+        "Description": "OpenSpaceLint is the Space API validator which tells you what's wrong with your implementation. The validator can be extended by plugins. Beside the validator OpenSpaceLint also provided the directory. In May 2013 OpenSpaceLint has been decoupled and is now integrated with the website as an app.",
+        "Website": "http://openspace.slopjong.de",
+        "Github": "http://github.com/slopjong/OpenSpaceLint/tree/v0.91",
+        "Gitorious": "",
+        "Techniques": "PHP, Bash, JSON",
+        "Twitter": "@slopjong",
+        "Author": "Romain Schmitz",
+        "Authorsite": "http://slopjong.de",
+        "Organization": "syn2cat",
+        "Organizationsite": "http://syn2cat.lu",
+        "Screenshot": "openspacelint.png"
+    },
+    {
+        "Title": "Gnome Shell Extension",
+        "Description": "No X? No smartphone? No problem with the <em>Gnome Shell Extension</em>!",
+        "Website": "",
+        "Github": "",
+        "Gitorious": "http://gitorious.org/grdryn/gnome-shell-extension-091labs-lolo",
+        "Techniques": "Shell",
+        "Twitter": "@grdryn",
+        "Author": "Gerard Ryan",
+        "Authorsite": "http://blog.grdryn.me",
+        "Organization": "091 Labs",
+        "Organizationsite": "http://091labs.com",
+        "Screenshot": "gnome-shell-extension.png"
+    }
+]
+

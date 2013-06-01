@@ -1,0 +1,13 @@
+{
+    "App": "Space API Apps",
+    "Description": "Overview of existing applications based on the Space API.",
+    "Authors": [
+        {
+            "Name": "Romain Schmitz",
+            "Nickname": "Slopjong",
+            "Hackerspace": "Syn2cat"
+        }
+    ],
+    "License": "",
+    "Updated": "20.5.2013"
+}

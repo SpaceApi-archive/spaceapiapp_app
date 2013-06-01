@@ -1,0 +1,58 @@
+
+Title: Hackerspace Globe
+Website: http://joewalnes.github.io/hackerspace-globe
+Github: http://github.com/joewalnes/hackerspace-globe
+Techniques: The WebGL Globe (http://code.google.com/p/webgl-globe/)
+Author: Joe Walnes
+Twitter: @joewalnes
+Author-Site: http://joewalnes.com
+Organization: 
+Screenshot: hackerspace-globe.png
+
+------------------------------
+
+Title: Hackerspace Wall
+Website: http://hackerspaces.me
+Github: http://github.com/trevorpower/hackerspaces-status-wall
+Techniques: Node.js, Express, CoffeeScript, Jade, Less, MongoDB
+Twitter: @trevormpower
+Author: Trevor Power
+Author-Site: http://trevorpower.com/
+Organization: miLKlabs (http://milklabs.ie)
+Screenshot: hackerspace-wall.png
+
+---------------------------------------
+
+Title: Hacker's OpenSpace
+Website: https://addons.mozilla.org/en-US/firefox/addon/hackers-openspace/
+Github: https://github.com/slopjong/openspace
+Techniques: JavaScript, XUL
+Twitter: @slopjong
+Author: Romain Schmitz
+Author-Site: http://slopjong.de
+Organization: syn2cat (http://syn2cat.lu)
+Screenshot: firefox-addon.png
+
+---------------------
+
+Title: My Hackerspace
+Website: https://play.google.com/store/apps/details?id=ch.fixme.status
+Github: https://github.com/fixme-lausanne/MyHackerspace
+Techniques: 
+Twitter: @jbaubort
+Author: Aubort Jean-Baptiste
+Author-Site: 
+Organization: fixme (http://fixme.ch)
+Screenshot: my-hackerspace.png
+
+-----------
+
+Title: Gnome Shell Extension
+Website:
+Gitorious: http://gitorious.org/grdryn/gnome-shell-extension-091labs-lolo
+Techniques: Shell
+Twitter: @grdryn
+Author: Gerard Ryan
+Author-Site: http://blog.grdryn.me
+Organization: 091Labs (http://091labs.com)
+Screenshot: gnome-shell-extension.png
