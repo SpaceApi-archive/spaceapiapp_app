@@ -6,15 +6,10 @@
 if(!defined("APPSDIR"))
     die("Direct access is not allowed!");
 
-$app_dir = realpath(dirname(__FILE__));
-// remove the full path of the document root
-$app_dir = str_replace(ROOTDIR, "", $app_dir);
 
-$page->setActivePage(basename($app_dir));
+$page->addStylesheet("css/style.css");
 
-//********************************************************************
-
-$page->addStylesheet("$app_dir/css/style.css");
+$app_dir = APPSDIR . $page->activePage();
 
 $projects = file_get_contents("$app_dir/model.json");
 $projects = json_decode($projects);
@@ -44,7 +39,7 @@ foreach($projects as $project)
                     </p>
                 </div>
                 <div class="span6" style="">
-                    <img src="$app_dir/img/$project->Screenshot">
+                    <img src="%APPDIR%/img/$project->Screenshot">
                 </div>
                
             </div>
