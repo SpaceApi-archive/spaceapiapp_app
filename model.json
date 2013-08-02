@@ -1,5 +1,19 @@
 [
     {
+        "Title": "Space API Statistics",
+        "Description": "You see a timeline of the status for each hackerspace and at what time the hackerspace is most propably open..",
+        "Website": "http://spacestatus.bastinat0r.de/",
+        "Github": "https://github.com/bastinat0r/Spaceapi_Visualisation",
+        "Gitorious": "",
+        "Techniques": "Node.js",
+        "Author": "Sebastian Mai",
+        "Twitter": "@bastinat0r",
+        "Authorsite": "http://bastinat0r.de",
+        "Organization": "Netz39",
+        "Organizationsite": "http://www.netz39.de/",
+        "Screenshot": "spaceapi_statistics.png"
+    },
+    {
         "Title": "Hackerspace Globe",
         "Description": "On a 3D globe the sticks represent hackerspace locations while the color shows if it's open.",
         "Website": "http://joewalnes.github.io/hackerspace-globe",
