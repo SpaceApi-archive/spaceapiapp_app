@@ -1,5 +1,19 @@
 [
     {
+        "Title": "SpaceAPI for OS X",
+        "Description": "A SpaceAPI status client for the OS X status bar.",
+        "Website": "http://spaceapi-osx.apfohl.de",
+        "Github": "https://github.com/apfohl/spaceapi-osx",
+        "Gitorious": "",
+        "Techniques": "Objectiv-C",
+        "Author": "Andreas Pfohl",
+        "Twitter": "@andreaspfohl",
+        "Authorsite": "http://blog.apfohl.de",
+        "Organization": "Netz39",
+        "Organizationsite": "http://www.netz39.de/",
+        "Screenshot": "spaceapi-osx.png"
+    },
+    {
         "Title": "Space API Statistics",
         "Description": "You see a timeline of the status for each hackerspace and at what time the hackerspace is most propably open..",
         "Website": "http://spacestatus.bastinat0r.de/",
