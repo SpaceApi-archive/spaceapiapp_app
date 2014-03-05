@@ -110,6 +110,20 @@
         "Organization": "091 Labs",
         "Organizationsite": "http://091labs.com",
         "Screenshot": "gnome-shell-extension.png"
+    },
+    {
+        "Title": "Hackerspaces Live",
+        "Description": "View information from SpaceAPI endpoints in a micro-wiki format",
+        "Website": "http://www.shiftout.com/hackerspaces/",
+        "Github": "",
+        "Gitorious": "",
+        "Techniques": "PHP, RDF/XML, RDFa",
+        "Twitter": "@iainlearmonth",
+        "Author": "Iain R. Learmonth",
+        "Authorsite": "http://iain.learmonth.me",
+        "Organization": "57North Hacklab",
+        "Organizationsite": "http://57north.co/",
+        "Screenshot": "hackerspaces-live.png"
     }
 ]
 
