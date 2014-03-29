@@ -124,6 +124,20 @@
         "Organization": "57North Hacklab",
         "Organizationsite": "http://57north.co/",
         "Screenshot": "hackerspaces-live.png"
+    },
+    {
+        "Title": "HackDash - Hackerspaces DashClock Extension",
+        "Description": "View status information of your hackerspace right in your lock screen. DashClock is a home screen/lock screen widget from Roman Nurik which shows small information you need. This extension simply shows the open status using both SpaceAPI and DashClock API. ",
+        "Website": "https://play.google.com/store/apps/details?id=com.tasomaniac.hackerspace.status",
+        "Github": "https://github.com/tasomaniac/spaceapi_dashclock",
+        "Gitorious": "",
+        "Techniques": "Android, Java, Widget, Lockscreen Widget",
+        "Twitter": "@tasomaniac",
+        "Author": "Said Tahsin Dane",
+        "Authorsite": "http://www.tasomaniac.com",
+        "Organization": "Istanbul Hackerspace",
+        "Organizationsite": "https://istanbulhs.org/",
+        "Screenshot": "hackdash.png"
     }
 ]
 
