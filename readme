@@ -56,3 +56,15 @@ Author: Gerard Ryan
 Author-Site: http://blog.grdryn.me
 Organization: 091Labs (http://091labs.com)
 Screenshot: gnome-shell-extension.png
+
+-----------
+
+Title: HackDash - Hackerspaces DashClock Extension
+Website: https://play.google.com/store/apps/details?id=com.tasomaniac.hackerspace.status
+Github: https://github.com/tasomaniac/spaceapi_dashclock
+Techniques: Android, Java, Widget, Lockscreen Widget
+Twitter: @tasomaniac
+Author: Said Tahsin Dane
+Author-Site: http://www.tasomaniac.com
+Organization: Istanbul Hackerspace (https://istanbulhs.org/)
+Screenshot: hackdash.png
