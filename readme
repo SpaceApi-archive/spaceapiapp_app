@@ -68,3 +68,14 @@ Author: Said Tahsin Dane
 Author-Site: http://www.tasomaniac.com
 Organization: Istanbul Hackerspace (https://istanbulhs.org/)
 Screenshot: hackdash.png
+
+-----------
+
+Title: SpaceAPI App for Firefox OS and Firefox for Android
+Website: https://marketplace.firefox.com/app/hackerspaces/
+Github: https://github.com/samuelmoraesf/hackerspaces-app
+Techniques: JSON, Javascript, Firefox OS,
+Author: Samuel Moraes
+Author-Site: http://samuelmoraes.com
+Organization: Laboratório Hacker (http://laboratoriohacker.org)
+Screenshot: firefoxosapp.png
