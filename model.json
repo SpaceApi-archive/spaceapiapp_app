@@ -142,6 +142,7 @@
     {
 	"Title": "py3status Extension",
 	"Description": "Extension for the py3status, a fancy replacement for the i3status bar, used by the i3-wm",
+	"Website": "",
 	"Github": "https://github.com/ultrabug/py3status",
 	"Gitorious": "",
 	"Techniques": "i3, py3status, python",
