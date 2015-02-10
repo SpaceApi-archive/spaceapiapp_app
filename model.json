@@ -138,6 +138,20 @@
         "Organization": "Istanbul Hackerspace",
         "Organizationsite": "https://istanbulhs.org/",
         "Screenshot": "hackdash.png"
+    },
+    {
+        "Title": "SpaceAPI App for Firefox OS and Firefox for Android",
+        "Description": "SpaceAPI App for Firefox OS and Firefox for Android",
+        "Website": "https://marketplace.firefox.com/app/hackerspaces/",
+        "Github": "https://github.com/samuelmoraesf/hackerspaces-app",
+        "Gitorious": "",
+        "Techniques": "JSON, Javascript, Firefox OS",
+        "Twitter": "",
+        "Author": "Samuel Moraes",
+        "Authorsite": "http://samuelmoraes.com/",
+        "Organization": "Laboratório Hacker",
+        "Organizationsite": "http://laboratoriohacker.org",
+        "Screenshot": "firefoxosapp.png"
     }
 ]
 
