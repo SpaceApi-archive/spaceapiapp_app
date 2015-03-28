@@ -166,5 +166,19 @@
         "Organisation": "chaospott",
         "Organisationsite": "http://chaospott.de",
         "Screenshot": "py3status.png"
+    },
+    {
+        "Title": "Wordpress Widget",
+        "Description": "Display your hackerspace opening status in a Wordpress widget",
+        "Website": "",
+        "Github": "https://github.com/coredump-ch/spaceapi-wp-widget",
+        "Gitorious": "",
+        "Techniques": "wordpress, php",
+        "Twitter": "@dbrgn",
+        "Author": "Danilo Bargen",
+        "Authorsite": "https://dbrgn.ch/",
+        "Organisation": "coredump",
+        "Organisationsite": "https://www.coredump.ch",
+        "Screenshot": "wp-widget.png"
     }
 ]
