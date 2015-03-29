@@ -41,7 +41,7 @@
         "Organizationsite": "",
         "Screenshot": "hackerspace-globe.png"
     },
-    {        
+    {
         "Title": "Hackerspace Wall",
         "Description": "Be up-to-date with the hackerspace wall. Check the tweet per hour meter, monitor the tweets and observe the space states - all in one page ...",
         "Website": "http://hackerspaces.me",
@@ -154,18 +154,31 @@
         "Screenshot": "firefoxosapp.png"
     },
     {
-	"Title": "py3status Extension",
-	"Description": "Extension for the py3status, a fancy replacement for the i3status bar, used by the i3-wm",
-	"Website": "",
-	"Github": "https://github.com/ultrabug/py3status",
-	"Gitorious": "",
-	"Techniques": "i3, py3status, python",
-	"Twitter": "@timmszigat",
-	"Author": "Timm Szigat",
-	"Authorsite": "http://timm.szigat.de",
-	"Organisation": "chaospott",
-	"Organisationsite": "http://chaospott.de",
-	"Screenshot": "py3status.png"
+        "Title": "py3status Extension",
+        "Description": "Extension for the py3status, a fancy replacement for the i3status bar, used by the i3-wm",
+        "Website": "",
+        "Github": "https://github.com/ultrabug/py3status",
+        "Gitorious": "",
+        "Techniques": "i3, py3status, python",
+        "Twitter": "@timmszigat",
+        "Author": "Timm Szigat",
+        "Authorsite": "http://timm.szigat.de",
+        "Organisation": "chaospott",
+        "Organisationsite": "http://chaospott.de",
+        "Screenshot": "py3status.png"
+    },
+    {
+        "Title": "Wordpress Widget",
+        "Description": "Display your hackerspace opening status in a Wordpress widget",
+        "Website": "",
+        "Github": "https://github.com/coredump-ch/spaceapi-wp-widget",
+        "Gitorious": "",
+        "Techniques": "wordpress, php",
+        "Twitter": "@dbrgn",
+        "Author": "Danilo Bargen",
+        "Authorsite": "https://dbrgn.ch/",
+        "Organisation": "coredump",
+        "Organisationsite": "https://www.coredump.ch",
+        "Screenshot": "wp-widget.png"
     }
 ]
-
