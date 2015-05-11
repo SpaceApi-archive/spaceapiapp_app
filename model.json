@@ -2,13 +2,13 @@
     {
         "Title": "SpaceAPI for OS X",
         "Description": "A SpaceAPI status client for the OS X status bar.",
-        "Website": "http://spaceapi-osx.apfohl.de",
+        "Website": "http://spaceapi-osx.apfohl.com",
         "Github": "https://github.com/apfohl/spaceapi-osx",
         "Gitorious": "",
         "Techniques": "Objectiv-C",
         "Author": "Andreas Pfohl",
         "Twitter": "@andreaspfohl",
-        "Authorsite": "http://blog.apfohl.de",
+        "Authorsite": "http://apfohl.com",
         "Organization": "Netz39",
         "Organizationsite": "http://www.netz39.de/",
         "Screenshot": "spaceapi-osx.png"
