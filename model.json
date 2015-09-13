@@ -16,7 +16,7 @@
     {
         "Title": "Space API Statistics",
         "Description": "You see a timeline of the status for each hackerspace and at what time the hackerspace is most propably open..",
-        "Website": "http://spacestatus.bastinat0r.de/",
+        "Website": "http://spaceapi-stats.n39.eu/",
         "Github": "https://github.com/bastinat0r/Spaceapi_Visualisation",
         "Gitorious": "",
         "Techniques": "Node.js",
